@@ -1,0 +1,9 @@
+/* Empty. Add your own CSS if you like */
+.center-div
+{
+  position: fixed;
+  top: 50px;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
